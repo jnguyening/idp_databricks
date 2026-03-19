@@ -1,4 +1,4 @@
-# Intelligent Document Processing (IDP) in Databricks
+# Intelligent Document Processing (IDP) 
 
 ## Overview
 
@@ -10,3 +10,6 @@ This project demonstrates a complete pipeline for transforming unstructured data
 * AI Classification: Uses AI classify to automatically categorize files into invoices, purchase orders, or receipts based on their content, not just their filenames.
 * Intelligent Extraction: Employs AI extract to pull specific key-value pairs (e.g., vendor name, total amount, date) from categorized documents into structured tables.
 * Automated Pipeline: Once set up, new files can be dropped into the volume and processed using a single run all command.
+
+## Tools Used
+* Databricks
