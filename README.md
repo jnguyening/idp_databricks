@@ -10,6 +10,3 @@ This project demonstrates a complete Intelligent Document Processing (IDP) pipel
 * AI_CLASSIFY: To automatically categorize documents as Invoice, Purchase Order, or Receipt based on content, not just file names
 * AI_EXTRACT: To pull specific key-value pairs (e.g., Vendor Name, Total Amount, Dates) into structured data
 * Automated Pipeline: Once set up, new files can be dropped into the volume and processed using a single run all command.
-
-## Tools Used
-* Databricks: The primary environment for executing the pipeline.
